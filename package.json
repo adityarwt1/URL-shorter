@@ -1,0 +1,39 @@
+{
+  "name": "url-shorter",
+  "version": "1.0.0",
+  "description": "url shorter using express js and mvc",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityarwt1/URL-shorter.git"
+  },
+  "keywords": [
+    "url",
+    "shorter",
+    "url",
+    "shorter",
+    "express",
+    "url",
+    "shorter",
+    "mongodb",
+    "express",
+    "js"
+  ],
+  "author": "Aditya Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityarwt1/URL-shorter/issues"
+  },
+  "homepage": "https://github.com/adityarwt1/URL-shorter#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0",
+    "nanoid": "^5.0.9",
+    "nodemon": "^3.1.9"
+  }
+}
